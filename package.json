@@ -1,0 +1,24 @@
+{
+  "name": "path-filter",
+  "version": "0.0.0",
+  "description": "A filter for path ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clamjs/path-filter.git"
+  },
+  "keywords": [
+    "path",
+    "filter",
+    "handle"
+  ],
+  "author": "chenhao.lch",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Clamjs/path-filter/issues"
+  },
+  "homepage": "https://github.com/Clamjs/path-filter"
+}
